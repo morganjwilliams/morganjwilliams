@@ -35,7 +35,8 @@ I've made most of my recent conference and workshop presentations and associated
 
 | Date       | Conference/Workshop                          | Presentation                                                                                                                                          |
 | ---------- | -------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2020/12/16 | AGU 2020 Fall Meeting (Online)               | [Reproducible Geochemical Data Analysis Workflows with pyrolite](https://github.com/morganjwilliams/agu2020-geochem-data-workflows)                  |
+| 2021/02/08 | AESC 2021 (Online)                           | [Geochemical Data Analysis Workflows with pyrolite](https://github.com/morganjwilliams/aesc2021-pyrolite-workflows)                                   |
+| 2020/12/16 | AGU 2020 Fall Meeting (Online)               | [Reproducible Geochemical Data Analysis Workflows with pyrolite](https://github.com/morganjwilliams/agu2020-geochem-data-workflows)                   |
 | 2020/07/24 | CSIRO Mineral Resources 'Covideo'            | [Modelling Parental Magma Candidates at Norilsk](https://github.com/morganjwilliams/covideo_norilsk_melts)                                            |
 | 2020/06/24 | Goldschmidt (Online)                         | [Digging Into Deep Time & Deep Cover](https://github.com/morganjwilliams/gs2020-diggingdeeper)                                                        |
 | 2020/06/25 | Goldschmidt (Online)                         | [Building Open Source Geochemical Research Tools in Python](https://github.com/morganjwilliams/gs2020-python4geochem)                                 |
