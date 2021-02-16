@@ -2,7 +2,7 @@
 
 I'm a Research Scientist in CSIRO Mineral Resources' Geoscience Analytics and Ore Deposit Petrology teams, working on leveraging large geochemical datasets with data science approaches and machine learning. I principally work in Python, and wherever possible make what I'm doing open and as accessible as feasible. Feel free to get in touch with me about:
 -   potential collaborative projects
--   getting started with or contributing any of my current projects (see below)
+-   getting started with or contributing to any of my current projects (see below)
 -   ideas around making reproducible data analysis more accessible in the geosciences
 
 -----
