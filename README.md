@@ -1,6 +1,9 @@
 ### G'day 👋
 
-I'm a Research Scientist in CSIRO Mineral Resources' Geoscience Analytics and Ore Deposit Petrology teams, working on leveraging large geochemical datasets with data science approaches and machine learning. I principally work in Python, and wherever possible make what I'm doing open and as accessible as feasible. Feel free to get in touch with me about:
+I'm a Research Scientist in CSIRO Mineral Resources' Geoscience Analytics team.
+I work on leveraging large geochemical datasets with data science approaches and machine learning, and also on a range of projects around 
+geospatial and spectral analytics. 
+I principally work in Python, and wherever possible make what I'm doing open and as accessible as feasible. Feel free to get in touch with me about:
 -   potential collaborative projects
 -   getting started with or contributing to any of my current projects (see below)
 -   ideas around making reproducible data analysis more accessible in the geosciences
@@ -9,11 +12,17 @@ I'm a Research Scientist in CSIRO Mineral Resources' Geoscience Analytics and Or
 
 ### Software Projects
 
-I'm currently working on a few open source Python packages, largely targeted towards geochemists:
+I'm currently working on a few open source Python packages, largely targeted towards geochemists and spectral geology:
 
 -   [**`pyrolite`**](https://github.com/morganjwilliams/pyrolite)
 
     Python for geochemistry
+
+-   [**`tsg-xr`**](https://github.com/CSIRO-GeoscienceAnalytics/tsg-xr)
+
+    A tool for loading TSG datasets into Xarray data formats, and conversion to open indexable and cloud-native file formats.
+
+I've also released a few other open source Python pacakges which are not under active development:
 
 -   [**`pyrolite-meltsutil`**](https://github.com/morganjwilliams/pyrolite-meltsutil)
 
@@ -31,7 +40,7 @@ I'm currently working on a few open source Python packages, largely targeted tow
 
 ### Conference and Workshop Presentations
 
-I've made most of my recent conference and workshop presentations and associated work available here on GitHub, feel free to have a browse through:
+I've made most of my recent conference and workshop presentations related to open source work available here on GitHub, feel free to have a browse through:
 
 | Date       | Conference/Workshop                          | Presentation                                                                                                                                          |
 | ---------- | -------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
