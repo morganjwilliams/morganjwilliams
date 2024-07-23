@@ -44,6 +44,7 @@ I've made most of my recent conference and workshop presentations related to ope
 
 | Date       | Conference/Workshop                          | Presentation                                                                                                                                          |
 | ---------- | -------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2024/07/23 | IM4NiS Workshop                              | [Python for Indicator Mineral Chemistry](https://github.com/morganjwilliams/202407-im4nis-workshop)                                                   |
 | 2022/11/06 | SGGMP pyrolite Workshop                      | [Using `pyrolite` for Geochemical Data Analytics: An Introduction](https://github.com/morganjwilliams/202111-SGGMP-pyrolite-workshop)                 |
 | 2021/07/07 | Goldschmidt (Online)                         | [pyrolite: An Open Source Toolbox for Geochemical Data Analysis and Visualisation](https://github.com/morganjwilliams/gs2021-pyrolite)                |
 | 2021/03/19 | pyrolite Workshop - MQ Geochem Group         | [pyrolite Workshop - MQ Geochem Group](https://github.com/morganjwilliams/202103-MQ-pyrolite-workshop)                                                |
